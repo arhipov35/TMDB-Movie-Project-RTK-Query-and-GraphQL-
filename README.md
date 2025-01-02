@@ -1,4 +1,4 @@
-# Getting Started
+# Getting Started with TMDB Movie
 Install Dependencies
 Run the following command to install all necessary dependencies:
 # Fist `npm i`
