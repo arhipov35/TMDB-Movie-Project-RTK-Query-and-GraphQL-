@@ -1,4 +1,8 @@
 # Getting Started with TMDB Movie
+### About
+TMDB Movie is a web application built with React and TypeScript that allows users to browse popular movies, search for specific titles, and view detailed information about each movie. The app utilizes The Movie Database (TMDB) API to fetch up-to-date movie data and Auth0 for user authentication and authorization.
+
+
 Install Dependencies
 Run the following command to install all necessary dependencies:
 # Fist `npm i`
