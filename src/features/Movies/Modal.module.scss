@@ -1,0 +1,22 @@
+section {
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  z-index: 2000;
+  background-color: rgba(207, 207, 207, 0.8); /* зручніше використовувати rgba */
+  left: 0;
+  top: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 0 !important;
+}
+article {
+  width: 400px;
+  height: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  flex-direction: column;
+}
